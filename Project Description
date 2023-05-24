@@ -1,0 +1,1 @@
+The Object-Detection and counting the objects which are passing through the camera makes useful at many places. It uses computer vision techniques to detect the individual objects and make the count of objects only once. The project includes a user friendly dashboard for monitoring and interactive tool for detecting the objects.The project consists of:
